@@ -27,5 +27,12 @@
     "password": "dimas666",
     "expiresAt": "2026-08-23",
     "allowOffline": false
+  },
+{
+  id": "1ac400319c0eaa5b",
+    "username": "almi",
+    "password": "almi111",
+    "expiresAt": "2095-09-24",
+    "allowOffline": false
   }
 ]
