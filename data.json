@@ -69,5 +69,12 @@
     "password": "sukron",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  }
+  },
+    {
+    "id": "8dfb945a10601ab2",
+    "username": "ganjar",
+    "password": "ganjar",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+    }
 ]
