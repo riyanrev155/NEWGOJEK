@@ -62,5 +62,12 @@
     "password": "dendy",
     "expiresAt": "2025-10-29",
     "allowOffline": false
+  },
+  {
+    "id": "a4ea3e4789bd0965",
+    "username": "sukron",
+    "password": "sukron",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
   }
 ]
